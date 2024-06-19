@@ -1,0 +1,11 @@
+{
+  "name": "SOLTINES",
+  "symbol": "SOLT",
+  "description": "A solana based culture coin.",
+  "image": "https://raw.githubusercontent.com/tdguitarlord/logo/main/soltines-solt-300px-PNG.png",
+  "extensions": {
+    "website": "https://www.soltines.com/",
+    "twitter": "https://www.instagram.com/soltines.coin/",
+    "telegram": ""
+  }
+}
